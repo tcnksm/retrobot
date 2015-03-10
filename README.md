@@ -2,6 +2,8 @@
 
 This is twitter bot which tweets what [deeeet](https://twitter.com/deeeet) tweets in 1 year ago.
 
+This uses (mirakui/retrobot)[https://github.com/mirakui/retrobot] and deployed on CoreOS cluster. 
+
 ## Setup
 
 Download your [tweet zip file](https://blog.twitter.com/2012/your-twitter-archive) and extract,
